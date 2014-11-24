@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Motivation}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Introduction}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Natural Language Processing (NLP)}{5}{0}{1}
+\beamer@subsectionintoc {1}{4}{Semantic Assistants}{6}{0}{1}
+\beamer@sectionintoc {2}{The ReqWiki Approach}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{ReqWiki Architecture}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Semantic model for SRS}{9}{0}{2}
+\beamer@subsectionintoc {2}{3}{User Interface}{10}{0}{2}
+\beamer@subsectionintoc {2}{4}{Features}{11}{0}{2}
+\beamer@sectionintoc {3}{Evaluation}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Effectiveness}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{Usability}{17}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{19}{0}{4}
+\beamer@subsectionintoc {4}{1}{Summary and Outlook}{20}{0}{4}
